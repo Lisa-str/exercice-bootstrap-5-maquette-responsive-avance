@@ -70,6 +70,8 @@ video {
 
 header {
   background-image: url(../img/Banner-Background.webp);
+  background-size: cover;
+  background-position: center center;
 
   h1 {
     font-family: Rubik;
@@ -178,11 +180,6 @@ main article {
   }
 }
 
-footer {
-  padding-bottom: 50px;
-
-  img {
-    display: block;
-    padding: 50px 78px;
-  }
-}
+// footer {
+//   padding-bottom: 50px;
+// }
